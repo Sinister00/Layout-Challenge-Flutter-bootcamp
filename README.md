@@ -1,6 +1,5 @@
-# challenge_2
-
-A new Flutter project.
+# Layout_challenge
+This challenge consists basics of flutter regarding containers and rows.
 
 ## Getting Started
 
